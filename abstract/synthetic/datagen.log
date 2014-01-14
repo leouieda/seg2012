@@ -1,0 +1,23 @@
+INFO:fatiando: Fatiando a Terra:
+  date: Wed Mar 21 19:13:01 2012
+  version: 0.0.1
+  changeset: 5ffbff58332b
+  branch: default
+INFO:fatiando.gridder.regular: Generating regular grid:
+INFO:fatiando.gridder.regular:   area = (x1, x2, y1, y2) = (0, 5000, 0, 5000)
+INFO:fatiando.gridder.regular:   shape = (ny, nx) = (20, 20)
+INFO:fatiando.gridder.regular:   spacing = (dy, dx) = (263.1578947368421, 263.1578947368421)
+INFO:fatiando.gridder.regular:   points = nx*ny = 400
+INFO:fatiando.gridder.regular:   z = -150
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2
+INFO:fatiando.utils.contaminate: Contaminating data with Gaussian noise:
+INFO:fatiando.utils.contaminate:   noise stddev = 2

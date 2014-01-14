@@ -1,0 +1,7 @@
+INFO:fatiando: Fatiando a Terra:
+  date: Wed Mar 21 17:10:06 2012
+  version: 0.0.1
+  changeset: 5ffbff58332b
+  branch: default
+INFO:fatiando.gridder.cut: Cutting grid:
+INFO:fatiando.gridder.cut:   area = xmin, xmax, ymin, ymax = [7970, 12877, 10650, 17270]

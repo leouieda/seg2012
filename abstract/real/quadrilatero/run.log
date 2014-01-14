@@ -1,0 +1,36 @@
+INFO:fatiando: Fatiando a Terra:
+  date: Wed Mar 21 17:10:10 2012
+  version: 0.0.1
+  changeset: 5ffbff58332b
+  branch: default
+INFO:fatiando.mesher.ddd.PrismMesh: Generating 3D right rectangular prism mesh:
+INFO:fatiando.mesher.ddd.PrismMesh:   bounds = (x1, x2, y1, y2, z1, z2) = [0.0, 6617.29, 0.0, 4902.6700000000001, -1342.6099999999999, -200]
+INFO:fatiando.mesher.ddd.PrismMesh:   shape = (nz, ny, nx) = (23, 100, 135)
+INFO:fatiando.mesher.ddd.PrismMesh:   number of prisms = 310500
+INFO:fatiando.mesher.ddd.PrismMesh:   prism dimensions = (dx, dy, dz) = (49.016962962962964, 49.0267, 49.67869565217391)
+INFO:fatiando.potential.harvester: Creating prism data modules:
+INFO:fatiando.potential.harvester:   data misfit norm: 2
+INFO:fatiando.potential.harvester:   observations per data type: 4582
+INFO:fatiando.potential.harvester:   data types: gyz, gzz
+INFO:fatiando.potential.harvester:   total number of observations: 9164
+INFO:fatiando.potential.harvester: Generating prism seeds:
+INFO:fatiando.potential.harvester:   regularizing parameter (mu): 0.1
+INFO:fatiando.potential.harvester:   delta (threshold): 0.0001
+INFO:fatiando.potential.harvester:   distance type: absolute
+INFO:fatiando.potential.harvester:   shape-of-anomaly: True
+INFO:fatiando.potential.harvester:   physical properties: density
+INFO:fatiando.potential.harvester:   points: 5
+INFO:fatiando.potential.harvester:   seeds found: 5
+INFO:fatiando.potential.harvester: Harvesting inversion results from planting anomalous densities:
+INFO:fatiando.potential.harvester:   iterate: False
+INFO:fatiando.potential.harvester:   initial goal function: 0.999402
+INFO:fatiando.potential.harvester:   final goal function: 1106.18
+INFO:fatiando.potential.harvester:   total number of accretions: 1084
+INFO:fatiando.potential.harvester:   average time per accretion: 0h 0m 0.06767s
+INFO:fatiando.potential.harvester:   total time for inversion: 0h 1m 13.35000s
+INFO:fatiando: Pickling seeds
+INFO:fatiando: Pickling mesh
+INFO:fatiando: Pickling estimate
+INFO:fatiando: Dumping predicted data
+INFO:fatiando: Plotting results
+INFO:fatiando: Filter estimate for plotting

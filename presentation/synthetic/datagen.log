@@ -1,0 +1,24 @@
+INFO:fatiando: ########################################
+Fatiando a Terra:
+  date: Sun Oct 28 12:58:24 2012
+  version: 0.1.dev1
+  changeset: 6de36421d1a4
+########################################
+INFO:fatiando.grd: Generating regular grid:
+INFO:fatiando.grd:   area = (x1, x2, y1, y2) = (0, 1000, 0, 1000)
+INFO:fatiando.grd:   shape = (ny, nx) = (51, 51)
+INFO:fatiando.grd:   spacing = (dy, dx) = (20.0, 20.0)
+INFO:fatiando.grd:   points = nx*ny = 2601
+INFO:fatiando.grd:   z = -150
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5
+INFO:fatiando.utils: Contaminating data with Gaussian noise:
+INFO:fatiando.utils:   noise stddev = 0.5

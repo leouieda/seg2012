@@ -1,0 +1,32 @@
+INFO:fatiando: ########################################
+Fatiando a Terra:
+  date: Wed Oct 24 18:23:13 2012
+  version: 0.1.dev1
+  changeset: 0933e5ddbc2c
+########################################
+INFO:fatiando.grd: Cutting grid:
+INFO:fatiando.grd:   area = xmin, xmax, ymin, ymax = [7970, 12877, 10650, 17270]
+INFO:fatiando.msh.ddd: Generating 3D right rectangular prism mesh:
+INFO:fatiando.msh.ddd:   bounds = (x1, x2, y1, y2, z1, z2) = [0.0, 6617.2900000000373, 0.0, 4902.6699999999255, -1342.6099999999999, -200]
+INFO:fatiando.msh.ddd:   shape = (nz, ny, nx) = (23, 100, 135)
+INFO:fatiando.msh.ddd:   number of prisms = 310500
+INFO:fatiando.msh.ddd:   prism dimensions = (dx, dy, dz) = (49.01696296296324, 49.02669999999925, 49.67869565217391)
+INFO:fatiando.pot.harvester: Creating prism data modules:
+INFO:fatiando.pot.harvester:   data misfit norm: 2
+INFO:fatiando.pot.harvester:   observations per data type: 4582
+INFO:fatiando.pot.harvester:   data types: gyz, gzz
+INFO:fatiando.pot.harvester:   total number of observations: 9164
+INFO:fatiando.pot.harvester: Generating prism seeds:
+INFO:fatiando.pot.harvester:   regularizing parameter (mu): 0.1
+INFO:fatiando.pot.harvester:   delta (threshold): 0.0001
+INFO:fatiando.pot.harvester:   distance type: absolute
+INFO:fatiando.pot.harvester:   shape-of-anomaly: False
+INFO:fatiando.pot.harvester:   seeds given: 3
+INFO:fatiando.pot.harvester:   seeds found: 3
+INFO:fatiando.pot.harvester: Harvesting inversion results from planting anomalous densities:
+INFO:fatiando.pot.harvester:   iterate: False
+INFO:fatiando.pot.harvester:   initial goal function: 0.999596
+INFO:fatiando.pot.harvester:   final goal function: 14.219
+INFO:fatiando.pot.harvester:   total number of accretions: 979
+INFO:fatiando.pot.harvester:   average time per accretion: 0h 0m 0.04981s
+INFO:fatiando.pot.harvester:   total time for inversion: 0h 0m 48.76000s

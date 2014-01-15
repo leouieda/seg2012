@@ -12,6 +12,12 @@ Also available for download on my
 Slides available on figshare:
 [doi:10.6084/m9.figshare.156864](http://dx.doi.org/10.6084/m9.figshare.156864)
 
+Citation:
+
+Uieda, L., and V. C. F. Barbosa (2012), Use of the "shape-of-anomaly" data
+misfit in 3D inversion by planting anomalous densities, SEG Technical Program
+Expanded Abstracts, pp. 1-6, doi:10.1190/segam2012-0383.1
+
 # Use of the "shape-of-anomaly" data misfit in 3D inversion by planting anomalous densities
 
 **Leonardo Uieda and Valéria C. F. Barbosa**

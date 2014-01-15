@@ -2,6 +2,9 @@ Source code for the expanded abstract and presentation.
 
 Presented at the 2012 SEG Annual Meeting.
 
+Results were generated using open-source software [Fatiando a
+Terra](http://fatiando.org)
+
 Published expanded abstract:
 [doi:10.1190/segam2012-0383.1](
 http://library.seg.org/doi/abs/10.1190/segam2012-0383.1)
